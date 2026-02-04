@@ -1,11 +1,7 @@
-### Hello there! 👋
+### Gm
 
-Passionate about blockchain, decentralization, security and privacy.
+Web3 DΞV, Fonder.
 
-Here's my current focus:
-- Developing on Solana
-- Writing smart contracts with Rust and Anchor
-- 🧠 Deepening my understanding of EVM, Solidity and DeFi.
-- 🚀 Hustlin with Zero Knowledge Proofs (ZK).
+#decentralization, #privacy
 
 ---
